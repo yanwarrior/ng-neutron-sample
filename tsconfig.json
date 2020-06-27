@@ -15,6 +15,15 @@
     },
     {
       "path": "./e2e/tsconfig.json"
+    },
+    {
+      "path": "./projects/ng-neutron/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/ng-neutron/tsconfig.spec.json"
+    },
+    {
+      "paths": ["dist/ng-neutron"]
     }
 ]
 }
